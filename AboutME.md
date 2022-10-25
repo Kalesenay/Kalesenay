@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, PHP, NodeJS, Python....
 - 🌱 I’m currently working on frameworks(extending my knowledge)
 - 💞️ I’m ready to collaborate on any problem that require logical solutions.
-- 📫 How to reach me kalesenaypaulos@gmail.com
+- 📫 How to reach me kalesenaypaulos@gmail.com or www.linkedin.com/in/kalesenay-paulos-556b94241/
 
 <!---
 Kalesenay/Kalesenay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
